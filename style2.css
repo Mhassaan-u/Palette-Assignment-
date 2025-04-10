@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0px;
+}
+.palette{
+  display: flex;
+  /* flex: end; */
+  height: 100vh
+}
+.color{
+  flex : 1;
+  display: flex;
+  flex: end;
+  justify-content: center;
+  align-items:end ;
+  height: 100vh;
+  /* margin-bottom: 5px; */
+}
+.label{
+  margin-bottom: 50px;
+}
